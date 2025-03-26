@@ -1,3 +1,2 @@
 Hello ------
-This file contains the DB related code....
-
+This file contains the DB related code.
